@@ -1,7 +1,7 @@
 ### Wassup homie 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jidole02)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 웹개발 / 디자인을 하며 프로젝트 진행중
