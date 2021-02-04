@@ -1,5 +1,6 @@
-### Hi there 👋
+### Wassup homie 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jidole02=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 웹개발 / 디자인을 하며 프로젝트 진행중
 - 🌱 next.js / typescript / react.js / 알고리즘 etc...
