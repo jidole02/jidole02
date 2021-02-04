@@ -2,6 +2,7 @@
 
 <!--
 **jidole02/jidole02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+github-readme-stats
 
 Here are some ideas to get you started:
 
