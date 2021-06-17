@@ -2,10 +2,7 @@
 
 -발레발레 (타자게임)                   👉 https://valevales.netlify.app/
 
--인공지능 오목게임                     👉 https://omokgame.netlify.app/
-
--인터렉티브 웹                         👉 https://flamboyant-meninsky-376714.netlify.app  
-
+-인공지능 오목게임                     👉 https://omokgame.netlify.app
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jidole02)](https://velog.io/@jidole02)
