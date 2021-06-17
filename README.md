@@ -6,4 +6,4 @@
 
 -인터렉티브 웹                         👉 https://flamboyant-meninsky-376714.netlify.app  
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jidole02)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jidole02)](https://velog.io/@jidole02)
