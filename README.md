@@ -4,8 +4,3 @@
 
 -인공지능 오목게임                     👉 https://omokgame.netlify.app
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jidole02)](https://velog.io/@jidole02)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jidole02&tag=동아리)](https://velog.io/@jidole02)
-
